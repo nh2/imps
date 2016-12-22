@@ -1,0 +1,5 @@
+Compile
+-------
+
+Make sure to have 32bit libc-dev packages (e.g. libc6-dev or libc6-dev-i386 on 64 bit Ubuntu).
+Then `run make` or `make jit_test`.
